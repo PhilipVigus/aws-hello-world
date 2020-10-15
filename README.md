@@ -122,3 +122,4 @@ Next, you can use AWS Serverless Application Repository to deploy ready to use A
 
 function endpoint - https://qa7sj5upl8.execute-api.eu-west-2.amazonaws.com/Prod/hello/
 https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue
+https://stackoverflow.com/questions/55111348/react-calling-a-node-js-put-lambda-function-with-api-gateway
